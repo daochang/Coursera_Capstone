@@ -1,2 +1,2 @@
-# Coursera_Capstone
-For the Applied Data Science Capstone
+# Coursera Data Science Capstone course
+Week 3 assignment
